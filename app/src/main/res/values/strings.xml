@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ContactsExamen</string>
+    <string name="tv_splash">CONTACT LIST</string>
+    <string name="et_login">LOGIN</string>
+    <string name="et_password">PASSWORD</string>
+    <string name="toast_empty_login">PLEASE ENTER PASSWORD AND LOGIN</string>
+    <string name="toast_vrong_login">VRONG PASSWORD OR LOGIN</string>
+    <string name="title_activity_contact_main">ContactMainActivity</string>
+</resources>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set xmlns:android="http://schemas.android.com/apk/res/android">
+    <alpha
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:interpolator="@android:anim/accelerate_interpolator"
+        android:duration="2000"
+        android:fromAlpha="0.0"
+        android:toAlpha="1.0"/>
+    <rotate
+        android:duration="3000"
+        android:fromDegrees="0"
+        android:toDegrees="360"/>
+    <scale
+        android:duration="3000"
+        android:fromXScale="0"
+        android:toXScale="100%"
+        android:fromYScale="0"
+        android:toYScale="100%"/>
+
+</set>
